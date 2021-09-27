@@ -15,4 +15,4 @@ Software developer with a passion for technology, videogames and artificial inte
 [website]: https://www.linkedin.com/in/matiasvallejos/
 [twitter]: https://twitter.com/MatiasAVallejos
 [youtube]: https://www.youtube.com/channel/UCLzRlIA3FEZF7bxLOfs9WXg
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/matiasvallejos
