@@ -5,14 +5,48 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-Software developer with a passion for technology, videogames and artificial intelligence. I have an entrepreneurial, proactive and self-taught mentality.
+### Who Am I?
 
+Software developer _- Python / C# / AWS / Unity3D / Coding -_ with a passion for technology and programming. Good performance working in a team and with other people. Proactive at all times. I'm autodidactic. I want to continue growing in the development industry.
+
+### When I started to code?
+
+I started coding when I was 18 years old, at first it was just curiosity as a university student, curiosity of how machines can predict the future? How are video games made? Parallel to university then, I began to search for information on Google, YouTube and to take a wide variety of courses on Udemy, Udacity, Coursera where I began to learn progressively.
+
+### My Skills
+```Python
+import json
+with open('skills.json', 'r') as f:
+    skills = json.load(f)
+  
+print(json.dumps(skills, indent=4))
+```
+```Python
+{
+    "body": {
+        1: "Python - C#",
+        2: "AWS (EC2/ RDS / DevTools)",
+        3: "APIs develop - SQL",
+        4: "REST microServices",
+        5: "Unity3D",
+        6: "MVVM",
+        7: "Reactive (UniRx)",
+        8: "XR (AR Foundation / ARCore / ARKit)",
+        9: "Version Control (Git)",
+        10: "OOP",
+        11: "SOLID, Clean Code",
+        12: "DL / Tensorflow / OpenCV / Neural Networks / CNN",
+        13: "English (Intermediate B1), Portuguese (Upper-intermediate), Spanish (Native)"
+    }
+}
+```
+ 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
