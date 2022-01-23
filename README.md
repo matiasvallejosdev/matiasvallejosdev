@@ -43,11 +43,9 @@ print(json.dumps(skills, indent=4))
  
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-youtube-social-media-justicon-flat-justicon.png" />][youtube]
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-twitter-alphabet-t-logo-which-no-more-exists-logo-shadow-tal-revivo.png" />][twitter]
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png" />][linkedin]
 
 <br />
 
