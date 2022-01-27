@@ -28,15 +28,16 @@ print(json.dumps(skills, indent=4))
         2: "AWS (EC2/ RDS / DevTools)",
         3: "APIs develop - SQL",
         4: "REST microServices",
-        5: "Unity3D",
-        6: "MVVM",
-        7: "Reactive (UniRx)",
-        8: "XR (AR Foundation / ARCore / ARKit)",
-        9: "Version Control (Git)",
-        10: "OOP",
-        11: "SOLID, Clean Code",
-        12: "DL / Tensorflow / OpenCV / Neural Networks / CNN",
-        13: "English (Intermediate B1), Portuguese (Upper-intermediate), Spanish (Native)"
+        5: "RESTful APIs,
+        6: "Unity3D",
+        7: "MVVM",
+        8: "Reactive (UniRx)",
+        9: "XR (AR Foundation / ARCore / ARKit)",
+        10: "Version Control (Git)",
+        11: "OOP",
+        12: "SOLID, Clean Code",
+        13: "DL / Tensorflow / OpenCV / Neural Networks / CNN",
+        14: "English (Intermediate B1), Portuguese (Upper-intermediate), Spanish (Native)"
     }
 }
 ```
