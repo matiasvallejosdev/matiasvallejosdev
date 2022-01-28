@@ -28,7 +28,7 @@ print(json.dumps(skills, indent=4))
         2: "AWS (EC2/ RDS / DevTools)",
         3: "APIs develop - SQL",
         4: "REST microServices",
-        5: "RESTful APIs,
+        5: "RESTful APIs",
         6: "Unity3D",
         7: "MVVM",
         8: "Reactive (UniRx)",
