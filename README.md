@@ -7,7 +7,7 @@
 
 ### Who Am I?
 
-Software developer _- Python / C# / AWS / Unity3D / Coding -_ with a passion for technology and programming. Good performance working in a team and with other people. Proactive at all times. I'm autodidactic. I want to continue growing in the development industry.
+Software developer _- Python / C# / AWS / Unity3D / Coding -_ with passion for technology and programming. Good performance working in a team and with other people. Proactive at all times. I'm autodidactic. I want to continue growing in the development industry.
 
 ### When I started to code?
 
