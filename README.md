@@ -8,10 +8,6 @@
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Who Am I?
-
-Software developer _- Python | C# | Unity3D | Coding -_ with passion for technology and programming. Good performance working in a team and with other people. Proactive at all times. I'm autodidactic. I want to continue growing in the development industry.
- 
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-youtube-social-media-justicon-flat-justicon.png" />][youtube]
