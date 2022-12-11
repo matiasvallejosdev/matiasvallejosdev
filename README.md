@@ -77,8 +77,8 @@ print(json.dumps(skills, indent=4))
 Do not be shy. Do not hesitate to contact me!
 
 <p align="left" style="display: flex; flex-direction: row; gap: 1rem; justify-content: flex-start; align-items: center;">
-    <a href="https://www.linkedin.com/in/matiasvallejos/" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="matiasvallejos"/>
+    <a href="https://twitter.com/mativallejosdev" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="matiasvallejos"/>
     </a>
-    <a href="https://twitter.com/mativallejosdev" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="matiasvallejosdev"/>
+    <a href="https://www.linkedin.com/in/matiasvallejos/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="matiasvallejosdev"/>
     </a>
 </p>
