@@ -24,7 +24,7 @@
 <h2>🙋 Who Am I?</h2>
 
 <p>
-I started programming when I was 17 years old, at first I was just curious. With the passage of time I understood that my dream was to achieve a better future using technology. After having gone through a training process, I am looking to channel my knowledge to apply it to develop products that improve people's lives. That is how <a alt="desafiplaneta" href="https://planet-challenge-landing.vercel.app/">Climate Challenge</a> was born, a video game that seeks to teach about environmental problems and climate change, for free.
+I started programming when I was 17 years old, at first I was just curious. With the passage of time I understood that my dream was to achieve a better future using technology. After having gone through a training process, I am looking to channel my knowledge to apply it to develop products that improve people's lives. That is how <a alt="desafiplaneta" href="https://planet-challenge-landing.vercel.app/">Planet Challenge</a> was born, a video game that seeks to teach about environmental problems and climate change, for free.
 </p>
 
 <h2>🧰 Skills</h2>
