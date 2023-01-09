@@ -66,12 +66,6 @@ print(json.dumps(skills, indent=4))
 }
 ```
 
-<h2>📈 Stats</h2>
-
-<a href="https://www.linkedin.com/in/matiasvallejos/">
-  <img src="https://github-readme-stats.vercel.app/api?username=matiasvallejosdev&theme=github_dark" alt="Matias Vallejos Dev Card"/>
-</a>
-
 <h2>🤝 Connect With Me</h2>
 
 Do not be shy. Do not hesitate to contact me!
