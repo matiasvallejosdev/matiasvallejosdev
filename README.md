@@ -37,35 +37,6 @@ I started programming when I was 17 years old, at first I was just curious. With
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=000&color=FF0)
 
-```Python
-import json
-with open('skills.json', 'r') as f:
-    skills = json.load(f)
-  
-print(json.dumps(skills, indent=4))
-```
-
-```Python
-{
-    "body": {
-        1: "Python - C# - Javascript",
-        2: "Django / Django Rest Framework",
-        3: "React",
-        4: "RESTful apps",
-        5: "OOP",
-        6: "APis develop - SQL / MySql",
-        7: "Git",
-        8: "HTML – CSS – JAVASCRIPT",
-        9: "AWS (EC2/ RDS / DevTools)",
-        10: "Unity",
-        8: "Reactive (UniRx)",
-        9: "XR (AR Foundation / ARCore / ARKit)",
-        11: "OOP",
-        12: "SOLID, Clean Code"
-    }
-}
-```
-
 <h2>🤝 Connect With Me</h2>
 
 Do not be shy. Do not hesitate to contact me!
