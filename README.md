@@ -1,11 +1,22 @@
-<h1>Hello world 👋! I'm <a href="https://www.linkedin.com/in/matiasvallejos/">Matias</a></h1> 
+<h1>Hello world 👋! I'm <a href="https://www.linkedin.com/in/matiasvallejos/">Matias</a></h1>
+
 <p>
     Software developer moved by curiosity based in Argentina ❤. 
+    Software developer based in Córdoba, Argentina. Passionate about technology and programming. Skills in React (Next.js / Tailwind / Redux / Hooks), Django / Django Rest Framework, APIs, OOP and AWS. I am looking to apply my knowledge in projects that generate a positive impact. 
 </p>
+
+<p>
+    I developed a video game for my final degree thesis with the purpose of raising awareness about climate change, which reinforced my belief in the importance of a more inclusive, equitable, collaborative and sustainable future.
+</p>
+
+<h2>Who Am I? 💡</h2>
 
 <ul>
     <li>
         👨‍💻 Most of my projects are available on <a href="https://github.com/matiasvallejosdev">GitHub</a>
+    </li>
+    <li>
+        Creating a more inclusive & sustentable 🌎
     </li>
     <li>
        🔮 I believe in a technological and inclusive future.
@@ -21,21 +32,21 @@
     </li>
 </ul>
 
-<h2>🙋 Who Am I?</h2>
+<h2>My Skills 🖥</h2>
 
-<p>
-I started programming when I was 17 years old, at first I was just curious. With the passage of time I understood that my dream was to achieve a better future using technology. After having gone through a training process, I am looking to channel my knowledge to apply it to develop products that improve people's lives. That is how <a alt="desafiplaneta" href="https://planet-challenge-landing.vercel.app/">Planet Challenge</a> was born, a video game that seeks to teach about environmental problems and climate change, for free.
-</p>
-
-<h2>🧰 Skills</h2>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=000&color=FF0)
+<ul>
+  <li>⭐ React (Next.js / Tailwind / Redux / Hooks)</li>
+  <li>🌐 Server Side Rendering</li>
+  <li>🌟 Django / Django Rest Framework</li>
+  <li>🚀 APIs develop - SQL / MySQL - JSON - Django Test / Pytest (unit test)</li>
+  <li>☁️ RESTful apps deployment in cloud services and pipelines (CI CD)</li>
+  <li>📚 OOP</li>
+  <li>🎮 Unity / C#</li>
+  <li>📱 ARFoundation (ARCore, ARKit)</li>
+  <li>🌿 Git, Github</li>
+  <li>🌩️ AWS (EC2 / RDS / DevTools)</li>
+  <li>🌈 HTML - CSS - JavaScript</li>
+</ul>
 
 <h2>🤝 Connect With Me</h2>
 
