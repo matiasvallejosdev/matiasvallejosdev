@@ -1,12 +1,9 @@
 <h1>Hello world 👋! I'm <a href="https://www.linkedin.com/in/matiasvallejos/">Matias</a></h1>
 
 <p>
-    Software developer moved by curiosity based in Argentina ❤. 
     Software developer based in Córdoba, Argentina. Passionate about technology and programming. Skills in React (Next.js / Tailwind / Redux / Hooks), Django / Django Rest Framework, APIs, OOP and AWS. I am looking to apply my knowledge in projects that generate a positive impact. 
-</p>
 
-<p>
-    I developed a video game for my final degree thesis with the purpose of raising awareness about climate change, which reinforced my belief in the importance of a more inclusive, equitable, collaborative and sustainable future.
+My entrepreneurial focus is not limited to writing code. I tried to have a critical perspective towards products, focusing on functionalities and real problems solutions that the business need.
 </p>
 
 <h2>Who Am I? 💡</h2>
